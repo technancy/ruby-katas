@@ -1,0 +1,3 @@
+class Trigrams
+
+end
