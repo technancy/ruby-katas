@@ -1,9 +1,9 @@
 # Rake Dave Thomas's Katas
 
-
-Dave Thomas's http://codekata.pragprog.com/2007/01 blog is currently offline, this repository will store the katas and set up some inital tests.
+[Dave Thomas's blog][1] is currently offline, this repository will store the katas and set up some inital tests.
 
 ## Instructions:
+Fork this repository and branch off master. Use this branch for completing the kata yourself, but don't merge it back into master. Instead, update master and rebase your solutions branch whenever the repo is updated, for example, if new tests are added.
 
 ```
 rake
@@ -15,9 +15,6 @@ rake
 
 Go to web.archive.org and add more from the captures.
 
-http://web.archive.org/web/20131016085045/http:/codekata.pragprog.com/2007/01/kata_fourteen_t.html
+http://web.archive.org/web/20131016085045/http:/codekata.pragprog.com
 
-
-
-
-
+[1]: http://codekata.pragprog.com
