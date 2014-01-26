@@ -1,4 +1,4 @@
-#Kata 1: Fields to Forest 
+#Kata 1: Fields to Forest :deciduous_tree:
 ===================
 
 You have an area of land covered by a grid of grass fields. 10 fields x 10 fields.
@@ -30,7 +30,7 @@ You will have to try multiple start points to find the most complete (least brok
 
 Start
 ```
-F F F F F F F F F F
+F F F F F F F F F F 
 F F F F F F F F F F
 F F F F F F F F F F
 F F F F F F F F F F
