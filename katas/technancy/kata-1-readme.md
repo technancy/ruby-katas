@@ -1,10 +1,11 @@
 #Kata 1: Fields to Forest :deciduous_tree: :deciduous_tree: :deciduous_tree: :deciduous_tree::deciduous_tree:
 
-You have an area of land covered by a grid of grass fields. 10 fields x 10 fields.
+There is an area of land covered by a grid of grass fields. 10 fields x 10 fields.
 
 You and some friends want to plant a "wall" of fruiting trees from West to East / East to West.
+This will benefit local wildlife and boost the local food production's diversity and yeild.
 
-You need to get permission from the field's land owners to convert a field into a food forest.
+However you must first get permission from the field's land owners to convert a field into a food forest.
 
 Some land owners will NOT give you permission to do this.
 
