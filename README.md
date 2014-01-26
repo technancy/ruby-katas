@@ -1,6 +1,6 @@
-# Rake Dave Thomas's Katas
+# Rake Dave Thomas's PragProg Katas
 
-[Dave Thomas's blog][1] is currently offline, this repository will store the katas and set up some inital tests.
+[Dave Thomas's blog][1] is currently offline, this repository will store his katas (and more) with inital tests.
 
 ## Instructions:
 Fork this repository and branch off master. 
@@ -17,10 +17,8 @@ rake
 
 =========================
 
-*Add more:*
+All of Dave Thomas's PragProg Kata readmes have been added from [web.archive.org][2] captures.
 
-Go to web.archive.org and add more from the captures.
-
-http://web.archive.org/web/20131016085045/http:/codekata.pragprog.com
 
 [1]: http://codekata.pragprog.com
+[2]: http://web.archive.org/web/20131016085045/http:/codekata.pragprog.com
