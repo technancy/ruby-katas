@@ -27,7 +27,7 @@ You do not have to use both start points, so you can plant West to East in 1 go.
 
 You will have to try multiple start points to find the most complete (least broken/gappy) planting path.
 
-Start
+*Start*
 ```
 . . . . . . . . . . 
 . . . . . . . . . . 
@@ -41,7 +41,7 @@ Start
 . . . . . . . . . . 
 ```
 
-Goal
+*Goal*
 ```
 . . . . . . . . . . 
 . . . . . . . . . . 
@@ -56,7 +56,7 @@ F F . . . . . F . .
 
 ```
 
-Compromise (best available)
+*Compromise (best available)*
 ```
 . . . . . . . . . . 
 . . . . . . . . F F 
@@ -72,3 +72,12 @@ F F F . . . . . . .
 ```
 
 (You can plant diagonally)
+
+##Suggestion:
+
+You may want to start by creating a grid of 100 Yes answers. 
+Then try a grid with a random seed of permissions, then a seed weighted differently again, and see how this affects your solution's success.
+
+
+
+
