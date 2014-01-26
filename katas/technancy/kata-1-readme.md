@@ -4,7 +4,7 @@ There is an area of land covered by a grid of grass fields. 10 fields x 10 field
 
 You and some friends want to plant a "wall" of fruiting trees from West to East / East to West.
 
-This will benefit local wildlife and boost the local food production's diversity and yeild.
+This will benefit local wildlife and boost the local food production's diversity and yield.
 
 However you must first get permission from the field's landowners to convert a field into a food forest.
 
