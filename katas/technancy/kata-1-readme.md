@@ -1,5 +1,4 @@
-#Kata 1: Fields to Forest :deciduous_tree:
-===================
+#Kata 1: Fields to Forest :deciduous_tree: :deciduous_tree: :deciduous_tree: :deciduous_tree::deciduous_tree:
 
 You have an area of land covered by a grid of grass fields. 10 fields x 10 fields.
 
@@ -17,9 +16,9 @@ To create a wall of trees spanning West to East / East to West, you can only ask
 
 ```
 Neighbours    West       East     
-F F F         F ? ?      ? ? F
-F F F         F # ?      ? # F
-F F F         F ? ?      ? ? F
+. . .         . ? ?      ? ? .
+. . .         F F ?      ? F F
+. . .         . ? ?      ? ? .
 ```
 
 You can have 1 start point in the West and 1 in the East.
@@ -30,32 +29,30 @@ You will have to try multiple start points to find the most complete (least brok
 
 Start
 ```
-F F F F F F F F F F 
-F F F F F F F F F F
-F F F F F F F F F F
-F F F F F F F F F F
-F F F F F F F F F F
-F F F F F F F F F F
-F F F F F F F F F F
-F F F F F F F F F F
-F F F F F F F F F F
-F F F F F F F F F F
-F F F F F F F F F F
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
 ```
 
 Goal
 ```
-F F F F F F F F F F
-F F F F F F F F F F
-F F F F F F F F F F
-F F F F F F F F F F
-F F F F F F # # F F
-F F F # # # F # F F
-F F # F F F F # # #
-# # F F F F F F F F
-F F F F F F F F F F
-F F F F F F F F F F
-F F F F F F F F F F
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . F F . . .
+. . . F F . . F . .
+. . F . . . . F . .
+F F . . . . . F . .
+. . . . . . . . F F
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
 
 ```
 
