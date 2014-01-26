@@ -1,4 +1,4 @@
-require './kata-14/kata-14'
+require './katas/pragprog/kata-14'
 
 describe 'trigrams' do
 	subject {Trigrams.new}

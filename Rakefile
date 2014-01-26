@@ -7,5 +7,5 @@ require 'rake/testtask'
 task :default => :spec
 
 task :spec do
-  sh 'rspec */*_spec.rb'
+  sh 'rspec --color specs/pragprog/*'
 end

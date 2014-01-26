@@ -1,4 +1,4 @@
-require './kata-5/kata-5'
+require './katas/pragprog/kata-5'
 
 describe 'bloom' do
 	subject {Bloom.new}
